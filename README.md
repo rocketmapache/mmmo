@@ -1,7 +1,13 @@
 # mmmo
 Mmmo stands for "mini massive multiplayer online". 
 
-Stack: Svelte + PhaserJS + FramerJS + Firebase
+Stack: Svelte-Phaser + FramerJS + Firebase
+
+https://svelte-phaser.com/getting-started
+
+https://www.framer.com/motion/
+
+https://firebase.google.com/
 
 ## Checklist
 - [ ] Create character sprite
